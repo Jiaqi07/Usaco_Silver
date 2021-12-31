@@ -4,5 +4,5 @@ Problems Solved:
    1. Breed Counting(Prefix Sum-15/15) - 12/28/2021, http://www.usaco.org/index.php?page=viewproblem2&cpid=572#
    2. Subsequences Summing to Sevens(Prefix Sum-8/10)(Prefix Sum Modded-7/10)(Prefix Sum Modded + FirstFound Vector-10/10) - 12/29/2021, http://www.usaco.org/index.php?page=viewproblem2&cpid=595 REDO IN FUTURE
    3. Haybale Stacking(Prefix Sum-Idk, prob right) - 12/29/2021, http://www.usaco.org/index.php?page=viewproblem2&cpid=104 IMPORTANT CONCEPT OF ADDING IN FRONT Index AND SUBTRACTING AT BACK+1 Index of given intervals.
-   4.
-   5.
+   4. Painting The Barn(2D Prefix Sum Seperate-10/10, 2D Formula- 10/10(WAY FASTER)) - 12/30/2021, http://www.usaco.org/index.php?page=viewproblem2&cpid=919 DEFINITELY REDO IN FUTURE
+   5. Lifeguards(
